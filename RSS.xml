@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0"> 
+<channel>
+
+    <title>Mi RSS</title>
+    <link>https://www.revistaciberseguridad.com/</link>
+    <description>Noticias más importante sobre la ciber seguridad y temas de interes que tienen que ver con el tema</description>
+    <author>a23pomega@iesgrancapitan.org</author>
+
+    <item>
+        <title>¿Qué son los programas de divulgación de vulnerabilidades?</title>
+        <link>https://www.revistaciberseguridad.com/2024/01/que-son-los-programas-de-divulgacion-de-vulnerabilidades/</link>
+        <description>Los programas de divulgación de vulnerabilidades ayudan a las organizaciones a mitigar el riesgo al promover la divulgación y corrección de vulnerabilidades antes de que los hackers puedan explotarlas.</description>
+    </item>
+
+    <item>
+        <title>Cómo actuar ante un trol o hater en Internet</title>
+        <link>https://www.revistaciberseguridad.com/2024/01/como-actuar-ante-un-trol-o-hater-en-internet/</link>
+        <description>Internet es un espacio de comunicación abierto que permite la transmisión de información, el debate y la puesta en común de opiniones, pero estas no siempre son positivas o constructivas. En los últimos tiempos, cualquiera que use Internet se habrá topado con una figura que forma parte indiscutible de foros y redes sociales: el trol.</description>
+    </item>
+
+    
+    <item>
+        <title>Se detecta una nueva ciberestafa que promete ingresos por dar me gusta a videos</title>
+        <link>https://www.revistaciberseguridad.com/2023/12/se-detecta-una-nueva-ciberestafa-que-promete-ingresos-por-dar-me-gusta-a-videos/</link>
+        <description>Bitdefender ha publicado una investigación sobre una nueva campaña que promete ingresos adicionales a los usuarios por el simple hecho de dar me gusta a videos, como si fuera un trabajo a tiempo parcial. En realidad, los ciberdelincuentes buscan robar información personal, números de cuenta bancaria y dinero.</description>
+    </item>
+
+    <item>
+        <title>Decálogo de principios: verificación de edad y protección de personas menores de edad ante contenidos inadecuados</title>
+        <link>https://www.revistaciberseguridad.com/2023/12/decalogo-de-principios-verificacion-de-edad-y-proteccion-de-personas-menores-de-edad-ante-contenidos-inadecuados/</link>
+        <description>La Agencia Española de Protección de Datos (AEPD) ha presentado una propuesta práctica y efectiva de sistema de verificación de edad y protección de las personas menores de edad en Internet ante el acceso a contenidos para adultos. Con la presentación de este sistema, la Agencia demuestra que es técnicamente posible proteger a los menores del acceso a contenidos inadecuados a la vez que se garantiza el anonimato de los adultos en su navegación por internet.</description>
+    </item>
+
+    <item>
+        <title>Ciberseguridad en el vehículo eléctrico conectado</title>
+        <link>https://www.revistaciberseguridad.com/2023/12/ciberseguridad-en-el-vehiculo-electrico-conectado/</link>
+        <description>S2 Grupo, compañía de referencia en Europa y Latinoamérica en ciberseguridad, ciberinteligencia y en operaciones de sistemas de misión crítica, ha explicado que el aumento de la conectividad y la automatización de los vehículos inteligentes los expone a amenazas cibernéticas cruciales y es necesario la implementación de la ciberseguridad desde la primera fase de su diseño para ciberprotegerlos.</description>
+    </item>
+
+   
+</channel>
+</rss>
