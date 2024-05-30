@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+    <channel id="FDF.TV">
+    <display-name>FDF.TV</display-name>
+    </channel>
+    <programme channel="FDF.TV" start="20240208070000 +0000" stop="20240208082500 +0000">
+        <title>Los Serrano (T1): Ep.6 Cien maneras de cocinar la trucha</title>
+        <desc>El agente especial de NCIS, Tony DiNozzo, ayuda al equipo de Nueva Orleans cuando un teniente de la Marina en libertad muere de la peste bubónica. El equipo corre para localizar a todos los marineros en libertad para controlar un posible brote de la peste y determinar el origen de la enfermedad altamente infecciosa.</desc>
+        <category>Series</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP343492"/>
+    </programme>
+    <programme channel="FDF.TV" start="20240208093500 +0000" stop="20240208104000 +0000">
+        <title>Aída (T3): Ep.39 Tierras de pirula</title>
+        <desc>Todos los departamentos del NCIS se unen para luchar contra "The Calling". Este nuevo grupo terrorista internacional se dedica a reclutar niños a través de la red y comprar bombas en el mercado negro.</desc>
+        <category>Series</category> 
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP600253"/>
+    </programme>
+    <programme channel="FDF.TV" start="20240208120000 +0000" stop="20240208134000 +0000">
+        <title>La que se avecina (T2): Ep.14 Un soltero, un yogur con fibra y un nuevo presidente</title>
+        <desc>Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con desconfianza y alimentan con su maldad intrínseca unas tramas surrealistas llenas de obsesiones personales y vecinales.</desc>
+        <category>Series</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP705488"/>
+    </programme>
+    <programme channel="FDF.TV" start="20240208134000 +0000" stop="20240208152000 +0000">
+        <title>La que se avecina (T13): Ep.4 Un colchón que te abraza, un costillar sanguinolento y un Thelma y Louise XXL</title>
+        <desc>Antonio, ofendido por el trato de vulgar plebeyo que le da la marquesa, encuentra una forma de ponerse a su altura. A raíz de trabajar juntos, Amador y Alonso empiezan a entablar una extraña amistad. Además, el Estado rechaza darle una pensión por invalidez a Yoli.</desc>
+        <category>Series</category>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP3113500"/>
+    </programme>
+    <programme channel="FDF.TV" start="20240208152000 +0000" stop="20240208173500 +0000">
+        <title>La que se avecina (T6): Ep.70 Una arqueta, un mercadillo y una ejecución hipotecaria</title>
+        <desc>Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con desconfianza y alimentan con su maldad intrínseca unas tramas surrealistas llenas de obsesiones personales y vecinales.</desc>
+        <category>Series</category> 
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP1063436"/>
+      </programme>
+</tv>
